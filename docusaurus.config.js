@@ -9,7 +9,7 @@ const lightTheme = themes.github;
 const darkTheme = themes.dracula;
 
 const config = {
-  title: 'Mark Harrison',
+  title: 'Mark Harrison 2',
   tagline: 'Azure AppDev Specialist',
   url: 'https://markharrison.io',
   baseUrl: '/',
