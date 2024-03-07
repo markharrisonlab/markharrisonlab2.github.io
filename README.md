@@ -1,5 +1,5 @@
-# markharrison.github.io | markharrison.io
+# markharrisonlab.github.io  
 
-<https://markharrison.io>
+<https://markharrisonlab.github.io>
 
 ![](markharrisonio.png)
