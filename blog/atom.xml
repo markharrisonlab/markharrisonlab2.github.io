@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://markharrison.io/blog</id>
+    <title>Mark Harrison Blog</title>
+    <updated>2024-02-24T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://markharrison.io/blog"/>
+    <subtitle>Mark Harrison Blog</subtitle>
+    <icon>https://markharrison.io/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Visual Studio EA Benefits]]></title>
+        <id>https://markharrison.io/blog/visualstudio-ea-benefits</id>
+        <link href="https://markharrison.io/blog/visualstudio-ea-benefits"/>
+        <updated>2024-02-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[There are several ways to buy Visual Studio.  Buying on an EA shows long term commitment and is rewarded with benefits ... this also offers the opportunity to get GitHub Enterprise for just 1p per month.]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/faq-visualstudio/assets/images/visual-studio-logo-b024ef4fd81eb63e712e936c471cbfa5.jpg" alt="" class="img_ev3q"></p>
+<p>There are several ways to buy Visual Studio.  Buying on an EA shows long term commitment and is rewarded with benefits ... this also offers the opportunity to get GitHub Enterprise for just 1p per month.</p>
+<p><a href="https://markharrison.io/faq-visualstudio/eabenefits" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
+        <author>
+            <name>Mark Harrison</name>
+            <uri>https://github.com/markharrison</uri>
+        </author>
+        <category label="appdev" term="appdev"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Azure Container Apps]]></title>
+        <id>https://markharrison.io/blog/container-apps</id>
+        <link href="https://markharrison.io/blog/container-apps"/>
+        <updated>2022-06-07T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Announced at the Microsoft Build Conference was the general availability of Azure Container Apps.]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/containerapps-d4314502c94c760bce37d01feb091b28.png" width="1575" height="394" class="img_ev3q"></p>
+<p>Announced at the Microsoft Build Conference was the general availability of Azure Container Apps.</p>
+<p>This is a fully managed serverless container service for building and deploying modern apps at scale, and empowers developers to focus on the business logic of their apps rather than on cloud infrastructure management.</p>
+<p>I have written a hands-on-lab to try out Azure Container Apps.</p>
+<p><a href="https://markharrison.io/lab-azure-container-apps" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
+        <author>
+            <name>Mark Harrison</name>
+            <uri>https://github.com/markharrison</uri>
+        </author>
+        <category label="appdev" term="appdev"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Securing Applications]]></title>
+        <id>https://markharrison.io/blog/securing-applications</id>
+        <link href="https://markharrison.io/blog/securing-applications"/>
+        <updated>2022-05-29T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[It was a pleasure to present 'Securing Applications' this week at Build UK.  Furthermore, it was fantastic to see so many people at Microsoft campus - and to know we are now back doing in-person events after the recent difficult and disruptive times.]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/secapps-7f3d154bc249fadbd42a46b1ad6d3cd2.png" width="1575" height="394" class="img_ev3q"></p>
+<p>It was a pleasure to present 'Securing Applications' this week at Build UK.  Furthermore, it was fantastic to see so many people at Microsoft campus - and to know we are now back doing in-person events after the recent difficult and disruptive times.</p>
+<p>I have written up the content from the session.</p>
+<p><a href="https://markharrison.io/securing-applications" target="_blank" rel="noopener noreferrer">Read here</a> or <a href="https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2022/06/07/considerations-for-securing-your-applications/" target="_blank" rel="noopener noreferrer">Read here</a></p>
+<p><a href="https://www.youtube.com/watch?v=hfHHNclh8Do" target="_blank" rel="noopener noreferrer">On-demand video</a></p>]]></content>
+        <author>
+            <name>Mark Harrison</name>
+            <uri>https://github.com/markharrison</uri>
+        </author>
+        <category label="appdev" term="appdev"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Green Software Engineering]]></title>
+        <id>https://markharrison.io/blog/green-software-engineering</id>
+        <link href="https://markharrison.io/blog/green-software-engineering"/>
+        <updated>2021-08-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[I recently presented ‘Green Software Engineering’ at a community event. A couple of days later the IPCC (Intergovernmental Panel on Climate Change) released a study that highlighted climate change is widespread, rapid, and intensifying, and some trends are now irreversible. The United Nations called it a “code red for humanity” and a catastrophe can only be avoided if the world acts fast.]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/gse-64e5e60126e3b034508b2dcfc1682bcb.png" width="1575" height="394" class="img_ev3q"></p>
+<p>I recently presented ‘Green Software Engineering’ at a community event. A couple of days later the IPCC (Intergovernmental Panel on Climate Change) released a study that highlighted climate change is widespread, rapid, and intensifying, and some trends are now irreversible. The United Nations called it a “code red for humanity” and a catastrophe can only be avoided if the world acts fast.</p>
+<p><a href="https://cloudblogs.microsoft.com/industry-blog/en-gb/technetuk/2021/08/19/sustainability-and-green-software-engineering/" target="_blank" rel="noopener noreferrer">Read here</a></p>
+<p><a href="https://www.youtube.com/watch?v=Tcvr30NRWmA" target="_blank" rel="noopener noreferrer">On-demand video</a></p>]]></content>
+        <author>
+            <name>Mark Harrison</name>
+            <uri>https://github.com/markharrison</uri>
+        </author>
+        <category label="appdev" term="appdev"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AppDev Trends]]></title>
+        <id>https://markharrison.io/blog/appdev-trends</id>
+        <link href="https://markharrison.io/blog/appdev-trends"/>
+        <updated>2021-02-16T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello! I’m a Microsoft UK Azure AppDev Specialist and below I’ll be sharing what I do and why I do it, as well as touch on the current AppDev trends I see and the themes that I’m frequently asked to cover.]]></summary>
+        <content type="html"><![CDATA[<p><img decoding="async" loading="lazy" src="https://markharrison.io/assets/images/appdevtrends-0eafc2c4cf6dfdc6253fa819299916dc.png" width="1575" height="394" class="img_ev3q"></p>
+<p>Hello! I’m a Microsoft UK Azure AppDev Specialist and below I’ll be sharing what I do and why I do it, as well as touch on the current AppDev trends I see and the themes that I’m frequently asked to cover.</p>
+<p><a href="https://markharrison.io/appdev-trends" target="_blank" rel="noopener noreferrer">Read here</a></p>]]></content>
+        <author>
+            <name>Mark Harrison</name>
+            <uri>https://github.com/markharrison</uri>
+        </author>
+        <category label="appdev" term="appdev"/>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[RSS Feed 🚀]]></title>
+        <id>https://markharrison.io/blog/feed</id>
+        <link href="https://markharrison.io/blog/feed"/>
+        <updated>2021-01-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[- RSS Feed]]></summary>
+        <content type="html"><![CDATA[<ul>
+<li><a href="https://markharrison.io/blog/rss.xml" target="_blank" rel="noopener noreferrer">RSS Feed</a></li>
+<li><a href="https://markharrison.io/blog/atom.xml" target="_blank" rel="noopener noreferrer">Atom Feed</a></li>
+</ul>]]></content>
+    </entry>
+</feed>
