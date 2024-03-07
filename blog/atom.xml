@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://markharrison.io/blog</id>
-    <title>Mark Harrison Blog</title>
+    <title>Mark Harrison 2 Blog</title>
     <updated>2024-02-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://markharrison.io/blog"/>
-    <subtitle>Mark Harrison Blog</subtitle>
+    <subtitle>Mark Harrison 2 Blog</subtitle>
     <icon>https://markharrison.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Visual Studio EA Benefits]]></title>
